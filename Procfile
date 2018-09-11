@@ -1,1 +1,1 @@
-worker: python accountcreation.py
+web: npm start
